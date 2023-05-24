@@ -4,7 +4,7 @@
     "interstitial_priority": "admob",
     "appOpen_priority": "admob",
     "rewarded_priority": "",
-    "native_top_priority": "admob",
+    "native_top_priority": "",
     "native_bottom_priority": "admob",
     "banner_type_top": "",
     "banner_type_bottom": "",
@@ -14,7 +14,7 @@
     "back_btn_ad": "2",
     "back_btn": "true",
     "main_btn_ad": "2",
-    "native_top_show": "1",
+    "native_top_show": "",
     "native_bottom_show": "1",
     "native_Extra": "",
     "admob_banner": "/22798352804,22586682066/YM2_com.gbversion.pro_Banner",
@@ -62,8 +62,8 @@
     "ads_btn_bottom": "1",
     "ads_btn_2_height_top": "100",
     "ads_btn_2_height_bottom": "100",
-    "ads_btn_1_background": "#2326E2",
-    "ads_btn_1_text": "#E24523",
+    "ads_btn_1_background": "#59006977",
+    "ads_btn_1_text": "#259B6A",
     "ads_btn_color_start": "#259B6A",
     "ads_btn_color_end": "#259B6A",
     "ads_btn_color_border_start": "#259B6A",
@@ -138,6 +138,6 @@
         "qureka_native_banner_image": "http://twinnettechnologies.com/img/qureka/qureka_8.jpg"
       }
     },
-    "data_other": "{'statusSaver':''}"
+    "data_other": "{'statusSaver':'1'}"
   }
 ]
