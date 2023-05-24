@@ -16,7 +16,7 @@
     "main_btn_ad": "2",
     "native_top_show": "1",
     "native_bottom_show": "1",
-    "native_Extra": "admob",
+    "native_Extra": "",
     "admob_banner": "/22798352804,22586682066/YM2_com.gbversion.pro_Banner",
     "admob_interstitial": "/22798352804,22586682066/YM2_com.gbversion.pro_Interstitial",
     "admob_open": "/22798352804,22586682066/YM2_com.gbversion.pro_OpenApp",
