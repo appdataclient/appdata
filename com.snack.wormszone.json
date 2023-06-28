@@ -1,9 +1,12 @@
 [
   {
     "splace_time": "1000",
-    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "admob_open": "ca-app-pub-3940256099942544/3419835294",
-    "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admob_interstitial": "",
+    "admob_open": "",
+    "admob_rewarded": "",
+     "admob_interstitial_1": "ca-app-pub-3940256099942544/1033173712",
+    "admob_open_1": "ca-app-pub-3940256099942544/3419835294",
+    "admob_rewarded_1": "ca-app-pub-3940256099942544/5224354917",
     "update_app": ""
   }
 ]
